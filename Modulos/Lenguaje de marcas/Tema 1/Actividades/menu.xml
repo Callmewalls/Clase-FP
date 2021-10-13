@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<restaurante>
+    <menu>
+        <dia>
+            <plato1>Ensalada tocha</plato1>
+            <plato2>Cuenco gigante de bravas</plato2>
+            <postre>Tarta de queso acabadora del hambre</postre>
+        </dia>
+    </menu>
+</restaurante>
